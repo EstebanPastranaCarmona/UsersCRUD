@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7AhXescQmaQ=",
+  "success": true,
+  "projectFilePath": "C:\\source\\PracticeGridView\\PracticeGridView\\PracticeGridView.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\epast\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.7\\microsoft.net.illink.tasks.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

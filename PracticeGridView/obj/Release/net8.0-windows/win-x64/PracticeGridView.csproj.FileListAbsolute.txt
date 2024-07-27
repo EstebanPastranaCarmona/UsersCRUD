@@ -1,0 +1,17 @@
+C:\source\PracticeGridView\PracticeGridView\bin\Release\net8.0-windows\win-x64\PracticeGridView.exe
+C:\source\PracticeGridView\PracticeGridView\bin\Release\net8.0-windows\win-x64\PracticeGridView.deps.json
+C:\source\PracticeGridView\PracticeGridView\bin\Release\net8.0-windows\win-x64\PracticeGridView.runtimeconfig.json
+C:\source\PracticeGridView\PracticeGridView\bin\Release\net8.0-windows\win-x64\PracticeGridView.dll
+C:\source\PracticeGridView\PracticeGridView\bin\Release\net8.0-windows\win-x64\PracticeGridView.pdb
+C:\source\PracticeGridView\PracticeGridView\obj\Release\net8.0-windows\win-x64\PracticeGridView.frmAddOrUpdate.resources
+C:\source\PracticeGridView\PracticeGridView\obj\Release\net8.0-windows\win-x64\PracticeGridView.frmUsersCRUD.resources
+C:\source\PracticeGridView\PracticeGridView\obj\Release\net8.0-windows\win-x64\PracticeGridView.csproj.GenerateResource.cache
+C:\source\PracticeGridView\PracticeGridView\obj\Release\net8.0-windows\win-x64\PracticeGridView.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\PracticeGridView\PracticeGridView\obj\Release\net8.0-windows\win-x64\PracticeGridView.AssemblyInfoInputs.cache
+C:\source\PracticeGridView\PracticeGridView\obj\Release\net8.0-windows\win-x64\PracticeGridView.AssemblyInfo.cs
+C:\source\PracticeGridView\PracticeGridView\obj\Release\net8.0-windows\win-x64\PracticeGridView.csproj.CoreCompileInputs.cache
+C:\source\PracticeGridView\PracticeGridView\obj\Release\net8.0-windows\win-x64\PracticeGridView.dll
+C:\source\PracticeGridView\PracticeGridView\obj\Release\net8.0-windows\win-x64\refint\PracticeGridView.dll
+C:\source\PracticeGridView\PracticeGridView\obj\Release\net8.0-windows\win-x64\PracticeGridView.pdb
+C:\source\PracticeGridView\PracticeGridView\obj\Release\net8.0-windows\win-x64\PracticeGridView.genruntimeconfig.cache
+C:\source\PracticeGridView\PracticeGridView\obj\Release\net8.0-windows\win-x64\ref\PracticeGridView.dll
